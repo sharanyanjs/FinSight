@@ -15,7 +15,7 @@ This project simulates how a fintech or investment firm might present analytics 
 ## 👨‍💻 Built With
 - Python 🐍
 - Streamlit 🎈
-- Pandas, Plotly, numpy 📊
+- Pandas, yfinance, numpy 📊
 
 ## 🗂 Features
 - 📈 Dynamic charts and portfolio metrics
