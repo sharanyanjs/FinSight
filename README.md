@@ -29,13 +29,3 @@ As an aspiring Product Manager, this project demonstrates:
 - Ability to ship MVPs using agile iterations
 - Comfort with both tech and data storytelling
 
-## 📁 Project Structure
-(Explain your folder breakdown here briefly)
-
-## 📌 Future Improvements
-- Add authentication layer
-- Integrate real-time stock API (e.g., Alpha Vantage)
-- User feedback system
-
-## 🤝 Connect
-If you're from Goldman Sachs or the fintech world, I'd love to connect and chat more! 🙂
